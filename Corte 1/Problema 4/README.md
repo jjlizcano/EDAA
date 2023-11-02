@@ -1,0 +1,3 @@
+# Problema 4
+
+Desarrollar un programa que a partir de N números pares generados de una muestra randómica, determinar cuántos son menores que su promedio. Si el conteo es menor que la mitad de n, proceder a ordenar estos últimos números, usando el método quicksort. Calcular su f(n) en función de su tiempo de ejecución para su peor caso (promedio de los dos más altos de 4 mediciones) para 5000, 15000, 30000, 50000; determinar su O(n), Ω(n) y Θ(n) del algoritmo.
