@@ -1,0 +1,5 @@
+1101683912:Helbert Correa;001,002,005,006,004;4,1,1,1,2;Factura=2
+2224647:Julian Lizcano;005,008;1,1;Factura=1
+2222222:Camilo Palacios;007,003,004;1,2,2;Factura=1
+2224653:Juan Fernando;001,002,003,004,005,006;1,1,1,1,1,1;Factura=1
+2224649:Juan Pablo;001,002,003,004,005,006,007;1,2,3,1,3,4,5;Factura=1

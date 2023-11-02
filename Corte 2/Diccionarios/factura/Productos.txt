@@ -1,0 +1,8 @@
+001:Manzana,2000,10
+002:Leche,5400,19
+003:Salchichasx5,7000,10
+004:CocaCola,3400,5
+005:Alpinito,1000,5
+006:Alpin,2000,5
+007:Tampico,1000,5
+008:SparkisMaximos,20000,5
